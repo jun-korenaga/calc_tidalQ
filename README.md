@@ -17,6 +17,18 @@ This program is based on code developed for Korenaga (2025).
 Korenaga, J. (2026). *calc_tidalQ* (Version v1.0.0) [Computer software].
 Zenodo. [10.5281/zenodo.24095696](https://doi.org/10.5281/zenodo.24095696)
 
+```bibtex
+@misc{korenaga2026calc_tidalq,
+  author       = {Korenaga, Jun},
+  title        = {{calc\_tidalQ}},
+  year         = {2026},
+  howpublished = {Zenodo},
+  note         = {Version v1.0.0},
+  doi          = {10.5281/zenodo.24095696},
+  url          = {https://doi.org/10.5281/zenodo.24095696}
+}
+```
+
 ## Build and install
 
 You need a C++17 compiler, GNU Make, `pkg-config`, and LAPACKE, the C
