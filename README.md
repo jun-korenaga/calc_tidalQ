@@ -12,6 +12,11 @@ This program is based on code developed for Korenaga (2025).
 [*Tidal dissipation within Earth's solidifying magma ocean: I. Effects of inertia and lunar orbital eccentricity*](https://doi.org/10.1016/j.icarus.2025.116756),
 *Icarus*, 442, 116756.
 
+## Citation
+
+Korenaga, J. (2026). *calc_tidalQ* (Version v1.0.0) [Computer software].
+Zenodo. [10.5281/zenodo.24095696](https://doi.org/10.5281/zenodo.24095696)
+
 ## Build and install
 
 You need a C++17 compiler, GNU Make, `pkg-config`, and LAPACKE, the C
