@@ -1,4 +1,4 @@
-# tidalQ
+# calc_tidalQ
 
 `calc_tidalQ` calculates the complex degree-2 tidal Love numbers `h2` and
 `k2`, their phase lags, and two corresponding tidal quality factors for
@@ -144,7 +144,7 @@ the core–mantle boundary, identified in the source as a value from
 
 ## License
 
-tidalQ is released under the [MIT License](LICENSE). The license file
+calc_tidalQ is released under the [MIT License](LICENSE). The license file
 retains the original copyright notice for code shared with
 [tomo2d](https://github.com/jun-korenaga/tomo2d).
 
