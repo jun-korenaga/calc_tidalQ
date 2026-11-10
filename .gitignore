@@ -1,0 +1,8 @@
+/build/
+/calc_tidalQ
+*.o
+*.d
+.DS_Store
+*~
+__pycache__/
+/solution.01.dat
