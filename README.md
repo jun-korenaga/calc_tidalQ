@@ -8,6 +8,10 @@ input shear modulus is complex and should describe the mantle at the
 requested forcing frequency. The model uses fixed Earth radii and
 Earth–Moon constants.
 
+This program is based on code developed for Korenaga (2025).
+[*Tidal dissipation within Earth's solidifying magma ocean: I. Effects of inertia and lunar orbital eccentricity*](https://doi.org/10.1016/j.icarus.2025.116756),
+*Icarus*, 442, 116756.
+
 ## Build and install
 
 You need a C++17 compiler, GNU Make, `pkg-config`, and LAPACKE, the C
